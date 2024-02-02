@@ -7,6 +7,17 @@
 # HOST-SUFFIX: 13757
 # IP-CIDR: 184
 # TOTAL: 37645
+# > HuYa
+host, business.msstatic.com, reject
+host, livewebbs2.msstatic.com, reject
+host, huyafile.msstatic.com, reject
+host, livewebbs2pcdn.msstatic.com, reject
+host, pp-cdnfile2pcdn.msstatic.com, reject
+host-suffix, gjfzpt.cn, reject
+ip-cidr, 203.107.1.1/24, reject
+ip-cidr, 183.240.197.130/32, reject
+DOMAIN-SUFFIX,display.io,REJECT
+DOMAIN-SUFFIX,sascdn.com,REJECT
 HOST,00-gov.cn,AdvertisingLite
 HOST,0024aadd.com,AdvertisingLite
 HOST,0026645142c89aeb1.com,AdvertisingLite
